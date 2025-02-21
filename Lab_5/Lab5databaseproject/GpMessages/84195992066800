@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Friday, February 21, 2025 3:26:09 PM</msg><msg code="1" type="100">﻿Traceback (most recent call last):
+﻿  File "H:\PythonGeog676\Harmann-online-GEOG676-spring2025-1\Lab_5\Lab5_code_test.pyt", line 107, in execute
+﻿    arcpy.Copy_management(buildings_campus, buildings)
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 11063, in Copy
+﻿    raise e
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 11059, in Copy
+﻿    gp.Copy_management(*gp_fixargs((in_data, out_data, data_type, associated_data), True))
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 532, in &lt;lambda&gt;
+﻿    return lambda *args: val(*gp_fixargs(args, True))
+﻿                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿arcgisscripting.ExecuteError: Failed to execute. Parameters are not valid.
+ERROR 000732: Input Data: Dataset H:\PythonGeog676\Harmann-online-GEOG676-spring2025-1\Lab_5\Lab5databaseproject\Campus.gdb\Structures does not exist or is not supported
+Failed to execute (Copy).
+
+</msg><msg code="-2147467259" type="100">Failed to execute (GarageBuildingIntersection).</msg><msg code="0" type="3">Failed at Friday, February 21, 2025 3:26:20 PM (Elapsed Time: 10.40 seconds)</msg></messages>
