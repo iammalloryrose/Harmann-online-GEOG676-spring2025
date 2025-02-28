@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Friday, February 28, 2025 11:23:28 AM</msg><msg code="1" type="100">﻿Traceback (most recent call last):
+﻿  File "H:\PythonGeog676\Harmann-online-GEOG676-spring2025-1\Lab_6\Maptool_Harmann.pyt", line 82, in execute
+﻿    time.sleep(readTime) #pause execution for 3 seconds
+﻿    ^^^^
+﻿NameError: name 'time' is not defined
+</msg><msg code="-2147467259" type="100">Failed to execute (GraduatedColorsRenderer).</msg><msg code="0" type="3">Failed at Friday, February 28, 2025 11:23:29 AM (Elapsed Time: 0.61 seconds)</msg></messages>

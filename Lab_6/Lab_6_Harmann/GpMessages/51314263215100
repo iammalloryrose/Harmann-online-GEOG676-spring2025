@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Friday, February 28, 2025 11:25:00 AM</msg><msg code="0" type="0">Validating Project File...</msg><msg code="0" type="0">Finding your map layer...</msg><msg code="0" type="0">Calculating and classifying...</msg><msg code="1" type="100">﻿Traceback (most recent call last):
+﻿  File "H:\PythonGeog676\Harmann-online-GEOG676-spring2025-1\Lab_6\Maptool_Harmann.pyt", line 120, in execute
+﻿    symbology.renderer.classificationField = "Shape_Area"
+﻿    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\arcobjects\_base.py", line 99, in _set
+﻿    return setattr(self._arc_object, attr_name, cval(val))
+﻿           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿RuntimeError: Invalid classificationField : Shape_Area
+</msg><msg code="-2147467259" type="100">Failed to execute (GraduatedColorsRenderer).</msg><msg code="0" type="3">Failed at Friday, February 28, 2025 11:25:10 AM (Elapsed Time: 9.57 seconds)</msg></messages>
